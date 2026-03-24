@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Tercyane Sousa 👋
 
-- 🗓️ Desenvolvedora  em  formação 
+- 🗓️ Graduada Desenvolvimento Web  
 - 💻 Estudando: JS, CSS e HTML ...
 - 😃 Pronomes: ela/dela
 
